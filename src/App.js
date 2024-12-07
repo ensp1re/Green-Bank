@@ -1164,9 +1164,11 @@ export default function Home() {
               </div>
               <div className="relative w-full max-w-[484px] h-auto top-10">
                 <img
-                  src="/images/phones.png"
+                  src="/images/phones.webp"
                   alt="Phones"
                   className="w-full h-auto object-cover"
+                  width={484}
+                  height={484}
                 />
               </div>
             </div>
